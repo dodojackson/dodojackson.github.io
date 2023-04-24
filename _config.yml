@@ -34,7 +34,7 @@ linkedin_username: tim-dmoch
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-extlinks
+  - jekyll-target-blank
 
 # Exclude from processing.
 # The following items will not be processed, by default.
